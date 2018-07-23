@@ -5,7 +5,7 @@
  * Verify credentials and redirect to based on response from Twitter.
  */
 //Just add something here to check what happened
-
+//second
 /* Start session and load lib */
 session_start();
 require_once('twitteroauth/twitteroauth.php');
